@@ -23,10 +23,15 @@ Solution :
 4:NUnit is used to do unit testing
 
 5
-TestResults :
-Has the screen shot of Unit testing using swagger .
+TestResults : Has the screen shot of Unit testing using swagger .
 
-6: 
+6: Axo Cover Code Coverage Tool Integration
 
+![Alt text](EmployeeWebApi/TestResults/axo_screenshot.jpg?raw=true "Axo Cover Code Coverage Tool")
 
+Find the tool here :https://github.com/axodox/AxoCover/releases
+
+7:Nunit Test Cases 
+
+![Alt text](EmployeeWebApi/TestResults/TestExplorer.jpg?raw=true "N Unit test Cases ")
 

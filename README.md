@@ -14,24 +14,25 @@ http://localhost:50751/swagger will load the API with Swagger UI.
 
 Solution :
 
-1:Each Layer talks to other layer via Dependency injection . 
+1:Dapper is used to connect with Database(ORM connection) 
 
-2:Autofac is used to impliment DI 
+2:Dependency injection is used to interact between each layer. 
 
-3:Swashuckle is used to implement the Swagger documentation 
+3:Autofac is used to impliment DI 
 
-4:NUnit is used to do unit testing
+4:Swashuckle is used to implement the Swagger documentation 
 
-5
-TestResults : Has the screen shot of Unit testing using swagger .
+5:NUnit is used to do unit testing
 
-6: Axo Cover Code Coverage Tool Integration
+6: TestResults : Has the screen shot of Unit testing using swagger .
+
+7: Axo Cover Code Coverage Tool Integration
 
 ![Alt text](EmployeeWebApi/TestResults/axo_screenshot.jpg?raw=true "Axo Cover Code Coverage Tool")
 
 Find the tool here :https://github.com/axodox/AxoCover/releases
 
-7:Nunit Test Cases 
+8:Nunit Test Cases 
 
 ![Alt text](EmployeeWebApi/TestResults/TestExplorer.jpg?raw=true "N Unit test Cases ")
 
